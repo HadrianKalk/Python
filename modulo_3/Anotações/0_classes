@@ -1,0 +1,7 @@
+"""
+Classe 'type': retorna o tipo da variavel.
+Exemplo:
+"""
+print(type("roberto"))
+print(type(7))
+print(type(1.1))
